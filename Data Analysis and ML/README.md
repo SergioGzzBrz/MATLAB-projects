@@ -10,7 +10,7 @@ In this project, I did data analysis and **trained a machine learning model to c
 
 This project was finished **December 2022**. The database used for this project is named "Amazon Brands and Exclusives" and can be found in [here](https://www.kaggle.com/datasets/thedevastator/amazon-s-dominance-in-e-commerce-why-you-should). 
 
-The project files are 2: "Data_Analysis_Amazon.ipynb" and "Machine_Learning_Amazon.ipynb", and can be found in [this repository](https://github.com/SergioGzzBrz/My-projects/tree/Data-Analysis-%26-Machine-Learning/Amazon%20Data%20project). **These documents include not only code, but details and explanations**; for a detailed analysis, please see the documents. 
+The project files are 2: "Data_Analysis_Amazon.ipynb" and "Machine_Learning_Amazon.ipynb", and can be found in this repository. **These documents include not only code, but details and explanations**; for a detailed analysis, please see the documents. 
 
 ### Data Analysis
 Here are some graphics regarding the data analysis:
