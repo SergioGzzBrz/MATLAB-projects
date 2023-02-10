@@ -5,8 +5,8 @@ Hi! I'm **Sergio Eduardo González Barraza**, a software engineering student fro
 This is my GitHub, the place where I store and showcase all the projects I've worked on related to programming. Welcome!
 
 This GitHub includes (for now): 
-- MATLAB School projects (in [MATLAB branch](https://github.com/SergioGzzBrz/My-proyects/tree/MATLAB)). 
-- Data analysis and machine learning project of Amazon's search results (in [Data Analysis & ML branch](https://github.com/SergioGzzBrz/My-projects/tree/Data-Analysis-%26-Machine-Learning)).
+- MATLAB School projects (in [MATLAB folder](https://github.com/SergioGzzBrz/My-projects/tree/main/MATLAB)). 
+- Data analysis and machine learning project of Amazon's search results (in [Data Analysis & ML folder](https://github.com/SergioGzzBrz/My-projects/tree/main/Data%20Analysis%20and%20ML)).
 
 Feel free to test, download and explore the documents and branches of what I've done.
 
