@@ -8,9 +8,11 @@ This GitHub includes (for now):
 - MATLAB School projects (in [MATLAB folder](https://github.com/SergioGzzBrz/My-projects/tree/main/MATLAB)). 
 - Data analysis and machine learning project of Amazon's search results (in [Data Analysis & ML folder](https://github.com/SergioGzzBrz/My-projects/tree/main/Data%20Analysis%20and%20ML)).
 
-Feel free to test, download and explore the documents and branches of what I've done.
+Feel free to test, download and explore the documents of what I've done.
 
 If you want to contact me, my email is sergio.gzzbrz@gmail.com 
+
+Also, **I created a webpage for a relative's business** using Python with Django, HTML, CSS, Google Cloud VM, and OpenLiteSpeed. You can see it here: [agenciaregiaeventos.com](https://agenciaregiaeventos.com) (it's in spanish). 
 
 # Small preview of my works
 
